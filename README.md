@@ -1,6 +1,6 @@
 # 🧠 Xcerpt
-**Xcerpt** is an AI-powered social media assistant that analyzes trending topics and automatically generates high-quality tweet drafts using large language models (LLMs).  
-It combines real-time data from **X (Twitter)** and **Google Trends** to help creators, marketers, and brands stay ahead of social conversations.
+Xcerpt is an AI-powered social media assistant that analyzes trending topics and automatically generates high-quality tweet drafts using large language models (LLMs).  
+It combines real-time data from X (Twitter) and Google Trends to help creators, marketers, and brands stay ahead of social conversations.
 ---
 ## 🚀 Features
 - 🔥 **Trending Topic Discovery**  

@@ -1,1 +1,8 @@
 info.txt
+.env
+.vscode/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
